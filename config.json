@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "is_maintenance": false,
+  "is_maintenance": true,
   "maintenance_message": "MOD IS UNDER MAINTENANCE.\nPlease try again in some time.\nWe are updating security features.",
   "login_url": "https://free.kuropanel.me/public/connect",
   "motd": "Welcome to WAKE MOD! Enjoy the latest update."
